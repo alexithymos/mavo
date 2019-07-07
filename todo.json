@@ -14,6 +14,6 @@
 		"Sleeping",
 		"Purring"
 	],
-	"text": "<strong><span style=\"text-decoration: line-through;\">bla blubber...</span></strong>",
+	"text": "Well, look<br />this is <strong>rich</strong> <em>text<br /><br /></em>",
 	"textt": "# head\n## header"
 }

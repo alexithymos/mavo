@@ -6,5 +6,6 @@
 	],
 	"text": "heading 1<img src=\"a.jpg\" alt=\"\" />",
 	"textt": "##### Markdown heading 1\n",
-	"img": "https://raw.githubusercontent.com/alexithymos/mavo/master/images/001.png"
+	"img": "https://raw.githubusercontent.com/alexithymos/mavo/master/images/001.png",
+	"text_1": "<em>head 2</em>"
 }

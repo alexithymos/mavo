@@ -4,7 +4,7 @@
 			"done": false
 		}
 	],
-	"text": "<li><em><strong>Hallo</strong></em></li>\n<img src=\"a.jpg\" alt=\"\" />",
+	"text": "heading 1<img src=\"a.jpg\" alt=\"\" />",
 	"textt": "##### Markdown heading 1\n",
 	"img": "https://raw.githubusercontent.com/alexithymos/mavo/master/images/001.png"
 }

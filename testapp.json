@@ -5,7 +5,7 @@
 		}
 	],
 	"text": "heading 1",
-	"textt": "# Markdown heading 1\n\n",
+	"textt": "# Markdown heading 1\n**aba** *test*\n\n",
 	"img": "https://raw.githubusercontent.com/alexithymos/mavo/master/images/001.png",
-	"text_1": "<em>head 2</em>"
+	"text_1": "<span style=\"text-decoration: line-through;\"><em>head 2</em></span>"
 }
